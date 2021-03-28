@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 	
   </div>
   
+  ## Language Usage ~ Status
+![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=kowo1001&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
+
 <br>
 <br>
 <br>
