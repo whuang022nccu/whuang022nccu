@@ -10,7 +10,7 @@
 
 <br>
 
-## Language Usage
+## Github Stats
 
 
 [![whuang022nccu's github stats](https://github-readme-stats.vercel.app/api?username=whuang022nccu)](https://github.com/whuang022nccu/github-readme-stats)
