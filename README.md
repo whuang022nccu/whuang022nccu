@@ -10,26 +10,6 @@
 
 <br>
 
-## Github Stats
-
-
-[![whuang022nccu's github stats](https://github-readme-stats.vercel.app/api?username=whuang022nccu)](https://github.com/whuang022nccu/github-readme-stats)
-
-
-<br>
-
-  <div align=center>
-	
-
-	
-  </div>
-  
-## Language Usage
-![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=whuang022nccu&layout=compact&theme=white&show_icons=true&hide_border=true&private=true)
-
-<br>
-<br>
-<br>
 
 
 </a>
