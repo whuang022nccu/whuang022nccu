@@ -32,7 +32,13 @@ I have another github account : https://github.com/whuang022ai
 
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Yang.Ming.Han.tw) https://www.facebook.com/Yang.Ming.Han.tw
 
+### Status
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/whuang022ai?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
+<!--
+**whuang022ai/whuang022ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 **whuang022ai/whuang022ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
