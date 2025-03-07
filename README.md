@@ -11,7 +11,7 @@
 
 <h1>Hello All 👋 </h1>
 
-### About Me
+### About Me 🇹🇼 🇺🇸
 
 My name is Ming Han Yang (楊明翰) and interested in biotechnology , artificial intelligence and machine learning. 
 I am currently a bioinformatics software engineer and also had  experience in a startup company of natural language processing and machine learning.
